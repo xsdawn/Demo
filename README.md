@@ -1,10 +1,6 @@
-# Demo
-
-
-
-## Tic Tac Toe
-https://github.com/xsdawn/Demo/TicTacToe/
-
+# [Demo](https://xsdawn.github.io/Demo)
 
 ## Space Tourism
-https://xsdawn.github.io/Demo/SpaceTourism/
+Frontend Mentor - Space tourism website solution 
+
+Live Site URL:[Space Tourism](https://xsdawn.github.io/Demo/SpaceTourism/)
